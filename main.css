@@ -1,7 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat)
-
 body {
-    text-align: center;
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    text-align: middle;
     font-size: 3em;
     font-family: 'Montserrat', sans-serif;
 }
